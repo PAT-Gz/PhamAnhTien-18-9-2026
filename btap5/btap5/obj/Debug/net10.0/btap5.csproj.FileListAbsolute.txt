@@ -1,0 +1,14 @@
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\bin\Debug\net10.0\btap5.exe
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\bin\Debug\net10.0\btap5.deps.json
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\bin\Debug\net10.0\btap5.runtimeconfig.json
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\bin\Debug\net10.0\btap5.dll
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\bin\Debug\net10.0\btap5.pdb
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.AssemblyInfoInputs.cache
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.AssemblyInfo.cs
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.dll
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\refint\btap5.dll
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.pdb
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\btap5.genruntimeconfig.cache
+C:\Users\LaptopAM.com\source\repos\btap5\btap5\obj\Debug\net10.0\ref\btap5.dll
