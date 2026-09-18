@@ -1,0 +1,14 @@
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\bin\Debug\net10.0\btap3.exe
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\bin\Debug\net10.0\btap3.deps.json
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\bin\Debug\net10.0\btap3.runtimeconfig.json
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\bin\Debug\net10.0\btap3.dll
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\bin\Debug\net10.0\btap3.pdb
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.AssemblyInfoInputs.cache
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.AssemblyInfo.cs
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.dll
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\refint\btap3.dll
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.pdb
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\btap3.genruntimeconfig.cache
+C:\Users\LaptopAM.com\source\repos\btap3\btap3\obj\Debug\net10.0\ref\btap3.dll
